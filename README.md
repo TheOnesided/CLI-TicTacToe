@@ -24,10 +24,9 @@ This is my **first Python project**, made with pure focus and a love for clean, 
 
 Clone this repository and run the game:
 
-```bash
-git clone https://github.com/TheOnesided/tictactoe.git
-cd tictactoe
-python3 tictactoe.py
+git clone https://github.com/TheOnesided/CLI-TicTacToe.git
+cd CLI-TicTacToe
+python3 main.py
 ```
 
 ---
