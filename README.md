@@ -1,59 +1,30 @@
 # CLI-TicTacToe
-A simple yet polished CLI Tic Tac Toe game with a computer opponent. Built entirely on Android using Termux and GNOME. My first Python project.
-🎮 Tic Tac Toe (CLI Game with AI)
+# 🎮 Tic Tac Toe (CLI Version)
 
-A simple command-line Tic Tac Toe game written in Python, featuring:
-
-🧑‍🤝‍🧑 Friend vs Friend mode
-
-🤖 Player vs Computer (with smart logic)
-
-❌ Player can choose X or O
-
-🧠 Computer plays smart: tries to win, block, or play randomly
-
-
+A simple yet polished command-line Tic Tac Toe game with a computer opponent.  
+Built entirely on Android using **Termux** with a **GNOME desktop setup**.  
+This is my **first Python project**, made with pure focus and a love for clean, functional tools.
 
 ---
 
-🔧 Built With
+## ✨ Features
 
-This is my first Python project, built entirely on:
-
-📱 Android (Termux)
-
-🐧 GNOME-style Linux setup in terminal
-
-🐍 Pure Python — no PC, no IDE
-
-
-All development was done right from my phone.
-
+- 🎮 Play against a **computer opponent** (medium difficulty)
+- 👤 Player chooses to be X or O
+- 🧠 Computer plays as Player 2 automatically
+- ✅ Simple, intuitive CLI interface
+- 📱 Built fully on **Android (Termux + GNOME)**
+- 🐍 No external Python libraries — pure Python
+- 🪄 Easily switch between **computer mode** and **2-player mode**
+- 💡 Clean logic, readable code structure, and room to expand
 
 ---
 
-🚀 How to Run
+## 🚀 Installation
 
-1. Clone the repo:
+Clone this repository and run the game:
 
-git clone https://github.com/TheOnesided/CLI-TicTacToe.git
-cd tictactoe-cli
-
-
-
-
-2. Start the game:
-
-python main.py
-
-
-
-Choose to play with a friend or the computer.
-
-
----
-
-⭐ Like This Project?
-
-If you enjoyed this project, please give it a star on GitHub — it really motivates me to keep building!
-
+```bash
+git clone https://github.com/TheOnesided/tictactoe.git
+cd tictactoe
+python3 tictactoe.py
