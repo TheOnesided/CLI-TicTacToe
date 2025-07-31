@@ -28,3 +28,10 @@ Clone this repository and run the game:
 git clone https://github.com/TheOnesided/tictactoe.git
 cd tictactoe
 python3 tictactoe.py
+```
+
+---
+
+## ⭐ Like This Project?
+
+If you enjoyed this project, please give it a star on GitHub — it really motivates me to keep building!
